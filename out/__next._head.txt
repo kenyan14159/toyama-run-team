@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"jcG4PFSO3Jufn6wIHb4Lx","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"富山県ランニングクラブ連絡会 | Toyama Running Club Association"}],["$","meta","1",{"name":"description","content":"富山マラソン開催をきっかけに県内の市民ランナークラブが集まり結成。富山県内のランニング文化を醸成する為活動しています。"}],["$","meta","2",{"name":"author","content":"富山県ランニングクラブ連絡会"}],["$","meta","3",{"name":"keywords","content":"富山, ランニング, マラソン, クラブ, スポーツ, 練習会, ペースランナー"}]]
