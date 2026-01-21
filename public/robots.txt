@@ -1,0 +1,8 @@
+# robots.txt for Toyama Running Club Association
+User-agent: *
+Allow: /
+Sitemap: https://toyama-run-team.pages.dev/sitemap.xml
+
+# Disallow admin or private sections if any
+# User-agent: *
+# Disallow: /admin/

@@ -13,30 +13,30 @@ export default function Home() {
   });
   const clubs = [
     { name: "アミノin富山", leader: "田中寿美子", email: "makimam7788@yahoo.co.jp" },
-    { name: "ありそR.C.", leader: "石倉　昌和", email: "pfbcs570@yahoo.co.jp" },
-    { name: "射水マラソンクラブ", leader: "橋　貴正", email: "greenchem2000@yahoo.co.jp" },
-    { name: "Y.G.R.C.", leader: "石倉　勝", email: "ishikura@asanokk.jp" },
-    { name: "Now Style", leader: "今　正徳", email: "oct08masa@yahoo.co.jp" },
-    { name: "アピアＧＲＡ", leader: "銅　幸一郎" },
+    { name: "ありそR.C.", leader: "石倉 昌和", email: "pfbcs570@yahoo.co.jp" },
+    { name: "射水マラソンクラブ", leader: "橋 貴正", email: "greenchem2000@yahoo.co.jp" },
+    { name: "Y.G.R.C.", leader: "石倉 勝", email: "ishikura@asanokk.jp" },
+    { name: "Now Style", leader: "今 正徳", email: "oct08masa@yahoo.co.jp" },
+    { name: "アピアGRA", leader: "銅 幸一郎" },
     { name: "高岡ランニングクラブ", leader: "原井 拓実", email: "haraitakumi@yahoo.co.jp" },
-    { name: "木曜練習会", leader: "中山　泰司", email: "nkymyss1013@gmail.com" },
-    { name: "何米CLUB", leader: "清水　光", email: "shimikoushimikousumire@gmail.com" },
-    { name: "YRC", leader: "高田　豊寛", email: "t.toyo.0126@gmail.com" },
-    { name: "HAMIGAKI.R.C", leader: "山野本　陽平", email: "tomahawk.jam.y@gmail.com" },
-    { name: "Ａ.Ｃ.ＴＯＹＡＭＡ", leader: "宮前　仁", email: "miyamae.hitoshi-atj@pa2.so-net.ne.jp" },
+    { name: "木曜練習会", leader: "中山 泰司", email: "nkymyss1013@gmail.com" },
+    { name: "何米CLUB", leader: "清水 光", email: "shimikoushimikousumire@gmail.com" },
+    { name: "YRC", leader: "高田 豊寛", email: "t.toyo.0126@gmail.com" },
+    { name: "HAMIGAKI.R.C", leader: "山野本 陽平", email: "tomahawk.jam.y@gmail.com" },
+    { name: "A.C.TOYAMA", leader: "宮前 仁", email: "miyamae.hitoshi-atj@pa2.so-net.ne.jp" },
     { name: "富山ランニングクラブ", leader: "東条 叙宏", email: "tojo4704@hb.tp1.jp" },
-    { name: "万葉健友会", leader: "薮田　勇治", email: "yuji_b5@yahoo.co.jp" },
-    { name: "フラットＲ.Ｃ.", leader: "宮脇　範純", email: "nnyt_miyawaki@ybb.ne.jp" },
-    { name: "RUNRUN塾", leader: "伊藤　靖" },
-    { name: "はしろっとA.C.", leader: "萩行　慎一", email: "toyama@imizu-plusone.com" },
+    { name: "万葉健友会", leader: "薮田 勇治", email: "yuji_b5@yahoo.co.jp" },
+    { name: "フラットR.C.", leader: "宮脇 範純", email: "nnyt_miyawaki@ybb.ne.jp" },
+    { name: "RUNRUN塾", leader: "伊藤 靖" },
+    { name: "はしろっとA.C.", leader: "萩行 慎一", email: "toyama@imizu-plusone.com" },
     { name: "サウルス富山", leader: "中山 和哉" },
-    { name: "MT.SUPOLA", leader: "間野　敏男", email: "mano@spo-uozu.com" },
+    { name: "MT.SUPOLA", leader: "間野 敏男", email: "mano@spo-uozu.com" },
     { name: "氷見浜友会", leader: "加野 邦彦" },
     { name: "NikoA'sRunning Family", leader: "磯野あずさ", email: "nik0nik0.running.6@gmail.com" },
     { name: "Team Hally", leader: "原井 拓実", email: "takaokarc2022@gmail.com" },
-    { name: "CLUB ＭＳＲ", leader: "石倉　勝", email: "ishikura@asanokk.jp" },
-    { name: "SALLYS RUNNING CLUB", leader: "藤森　暁", email: "info@sallys.run" },
-    { name: "TEAM AVANTE", leader: "宮田　真一", email: "info@t-avante.jp" },
+    { name: "CLUB MSR", leader: "石倉 勝", email: "ishikura@asanokk.jp" },
+    { name: "SALLYS RUNNING CLUB", leader: "藤森 暁", email: "info@sallys.run" },
+    { name: "TEAM AVANTE", leader: "宮田 真一", email: "info@t-avante.jp" },
   ];
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -359,7 +359,7 @@ export default function Home() {
         <div className="max-w-[1200px] mx-auto">
           <div className="text-center mb-20 lg:mb-28">
             <h2 className="text-3xl lg:text-5xl font-serif text-gray-900 tracking-[0.12em] font-light mb-6">
-              令和８年度　事業予定
+              令和8年度 事業予定
             </h2>
             <p className="text-sm lg:text-base text-gray-500 tracking-[0.15em] uppercase font-light">
               Schedule 2026
@@ -376,8 +376,8 @@ export default function Home() {
                 <div className="lg:col-span-2">
                   <p className="text-sm text-gray-500 font-light mb-2 tracking-wide">イベント内容</p>
                   <p className="text-base lg:text-lg text-gray-900 font-light leading-relaxed">
-                    ペースランナー委嘱式＆マラソン練習会<br />
-                    <span className="text-sm text-gray-600">（20～25㎞目標）</span>
+                    ペースランナー委嘱式&マラソン練習会<br />
+                    <span className="text-sm text-gray-600">(20~25km目標)</span>
                   </p>
                 </div>
               </div>
@@ -391,7 +391,7 @@ export default function Home() {
                   <p className="text-sm text-gray-500 font-light mb-2 tracking-wide">イベント内容</p>
                   <p className="text-base lg:text-lg text-gray-900 font-light leading-relaxed">
                     マラソン練習会<br />
-                    <span className="text-sm text-gray-600">（30㎞目標）</span>
+                    <span className="text-sm text-gray-600">(30km目標)</span>
                   </p>
                 </div>
               </div>
